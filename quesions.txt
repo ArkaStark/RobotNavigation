@@ -1,0 +1,5 @@
+- chiedere se la dimensione dell'area centrale deve essere definita staticamente o dinamicamente (dato che nel video si avvicina e si allontana "molto" dalla scacchiera).
+- ask if the dimension of the central area has to be defined statically or dynamically (since in the video the camera gets colser and farther to the chessboard)
+- should we use the opencv methods if avalaible or should we avoid the use of external libraries?
+- how the exam is done? (do we need to present the project together?, do we have to do necessarily the exam in the same day?, etc...)
+- are we allowed to use the dimensions of the chessboard (125 mm x 178 mm) or should we extimate it using only the two videos? (and focale and baseline?)
