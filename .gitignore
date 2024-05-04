@@ -1,0 +1,7 @@
+/frames_CUSTOM/
+/frames_CV2/
+/frames/
+/.vscode/
+profile_results
+*.mp4
+data.pickle
